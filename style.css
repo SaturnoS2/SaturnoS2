@@ -1,0 +1,14 @@
+header{
+    height: 100px;
+    background-color:rgb(38, 38, 171)
+}
+
+main{
+    height: 500px;
+    background-color:#f0bd32
+}
+
+footer{
+    height: 100px;
+    background-color: aquamarine;
+}
