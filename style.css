@@ -1,14 +1,19 @@
 header{
     height: 100px;
-    background-color:rgb(38, 38, 171)
+    background-color: rgb(44, 226, 8);
 }
 
 main{
-    height: 500px;
-    background-color:#f0bd32
+    height: 200px;
+    background-color: #010d0e;
 }
 
 footer{
     height: 100px;
-    background-color: aquamarine;
+    background-color: #747772;
+}
+
+p{
+    color: rgb(244, 244, 247);
+    font-size: 24px;
 }
